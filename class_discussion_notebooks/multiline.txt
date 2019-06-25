@@ -3,3 +3,8 @@ is
 a
 multi-line
 document
+I
+am
+adding
+more
+lines
