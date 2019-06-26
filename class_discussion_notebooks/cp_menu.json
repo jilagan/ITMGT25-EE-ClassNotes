@@ -1,0 +1,4 @@
+[{"code": "espresso", "name": "Espresso", "price": "140"}, 
+ {"code": "americano", "name": "Americano", "price": "150"}, 
+ {"code": "capuccino", "name": "Capuccino", "price": "170"},
+ {"code": "latte", "name": "Latte", "price": "200"}]
